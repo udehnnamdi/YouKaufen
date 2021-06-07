@@ -37,7 +37,7 @@ Firebase
 1. Fork and clone this repository
 2. Navigate into the Youkaufen folder via the cd command in your command prompt or terminal first.
 3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
-4. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/) 
+4. Run ~ npm start to start the server
 
 ## YouKaufen Features
 - Purchase products
