@@ -13,10 +13,10 @@
 ## Live Site
 To access the YouKaufen App, click on this link [YouKaufen](https://youkaufen.firebaseapp.com/)
 
-![Food Order Application](https://i.ibb.co/rQ4B7y2/Screenshot-28.png)
+![Purchase Order Application](https://i.ibb.co/rQ4B7y2/Screenshot-28.png)
 
-## About FitVictuals
-The FitVictuals app is an app that allows clients to use their smartphone, tablet computer or laptop to place a food order from all of the partner restaurants and food providers in a city.
+## About YouKaufen
+The YouKaufen app is an app that allows clients to use their smartphone, tablet computer or laptop to place a food order from all of the partner restaurants and food providers in a city.
 
 ## Technologies
 Html 5
