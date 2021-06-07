@@ -16,7 +16,7 @@ To access the YouKaufen App, click on this link [YouKaufen](https://youkaufen.fi
 ![Purchase Order Application](https://i.ibb.co/rQ4B7y2/Screenshot-28.png)
 
 ## About YouKaufen
-The YouKaufen app is an app that allows clients to use their smartphone, tablet computer or laptop to place a food order from all of the partner restaurants and food providers in a city.
+YouKaufen is an app that was created with the primary purpose of demonstrating the core features of React-redux. It is a Purchase Order app that lets you purchase specific products by adding them to a cart. The app was created with the use of html, CSS, Javascript, React.js, React-redux, and Firebase.
 
 ## Technologies
 Html 5
@@ -27,19 +27,22 @@ Javascript
 
 React.js
 
+React-redux
+
 React hooks
 
 Firebase
 
 ## Setup
 1. Fork and clone this repository
-2. Navigate into the FitVictuals folder via the cd command in your command prompt or terminal first.
+2. Navigate into the Youkaufen folder via the cd command in your command prompt or terminal first.
 3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
 4. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/) 
 
-## FitVictuals Features
-- Access Restaurants and food providers in your city
-- Order your favourite, healthy food with just a few clicks
+## YouKaufen Features
+- Purchase products
+- Add to, and subtract products from a cart
+- Toggle cart visibility
 
 
 ## Status 
@@ -47,7 +50,7 @@ Completed
 
 
 ## Why FitVictuals
-The app was created as a with the sole purpose of providing clients with easy access to the healthy dishes, as well as easy access to their favourite restaurants in a city.
+The app was created as a with the sole purpose of demonstrating the core react-redux functionalities. It demonstrates the efficiency of redux in managing states on react apps.
 
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
