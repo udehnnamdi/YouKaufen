@@ -49,7 +49,7 @@ Firebase
 Completed
 
 
-## Why FitVictuals
+## Why YouKaufen
 The app was created as a with the sole purpose of demonstrating the core react-redux functionalities. It demonstrates the efficiency of redux in managing states on react apps.
 
 ## Contact
